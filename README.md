@@ -7,7 +7,7 @@
 -  I’m currently learning Distributed systems and design patterns
 -  I’m looking to collaborate on develop my own app
 -  You can find me at 2294198058@qq.com
--  I was born in 2003
+-  born in 2003
 -  I hope everyone include me can keep working hard to realize our dream
 
 
